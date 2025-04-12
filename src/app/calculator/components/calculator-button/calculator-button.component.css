@@ -15,3 +15,7 @@ button:hover {
 .is-command {
   background-color: #4338ca;
 }
+
+.is-pressed {
+  background-color: #3a2fab;
+}
